@@ -36,7 +36,7 @@ defaultContentLanguageInSubdir = false
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
-  font = "default"
+  font = "classic"
 
   # Your details.
   name = "Tony Moraes"
@@ -47,7 +47,7 @@ defaultContentLanguageInSubdir = false
   organizations = [ { name = "University of Wyoming", url = "http://www.uwyo.edu/geolgeophys/index.html" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "image1.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "avatar.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "amoraes1@uwyo.edu"
   address = "Geology and Geophysics Building, Office 2006, University of Wyoming, Laramie, Wyoming, 82072, USA"
   office_hours = "Monday 10:00 to 12:00 or email for appointment"
@@ -202,24 +202,24 @@ defaultContentLanguageInSubdir = false
   #   Full list: https://jpswalsh.github.io/academicons/
 
   [[params.social]]
-    icon = "envelope"
-    icon_pack = "fa"
-    link = "mailto:test@example.org"
+   icon = "envelope"
+   icon_pack = "fa"
+   link = "mailto: amoraes1@uwyo.edu"
 
   [[params.social]]
-    icon = "twitter"
+    icon = "instagram"
     icon_pack = "fa"
-    link = "//twitter.com/GeorgeCushen"
+    link = "https://www.instagram.com/tonymoraess/"
 
-  [[params.social]]
+[[params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
-    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+    link = ""
 
-  [[params.social]]
-    icon = "github"
-    icon_pack = "fa"
-    link = "//github.com/gcushen"
+#  [[params.social]]
+#    icon = "github"
+#    icon_pack = "fa"
+#    link = "//github.com/gcushen"
 
 
 # Navigation Links
