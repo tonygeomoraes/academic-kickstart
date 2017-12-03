@@ -1,6 +1,6 @@
 baseurl = "/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 title = "Academic"
-copyright = "&copy; 2017 Your Name"
+copyright = "&copy; 2017 Anthony Moraes"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -39,21 +39,20 @@ defaultContentLanguageInSubdir = false
   font = "default"
 
   # Your details.
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
+  name = "Tony Moraes"
+  role = "Master's Student"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Stanford University", url = "" } ]
+  organizations = [ { name = "University of Wyoming", url = "http://www.uwyo.edu/geolgeophys/index.html" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
-  telegram = ""
+  avatar = "image1.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  email = "amoraes1@uwyo.edu"
+  address = "Geology and Geophysics Building, Office 2006, University of Wyoming, Laramie, Wyoming, 82072, USA"
+  office_hours = "Monday 10:00 to 12:00 or email for appointment"
+  phone = "307 314 2085"
+  
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
   keybase = ""
@@ -64,7 +63,7 @@ defaultContentLanguageInSubdir = false
 
   # Diplay a logo in navigation bar rather than title (optional).
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
-  logo = ""
+  logo = "University_of_Wyoming_logo.svg.png"
 
   # Enable/disable map in Contact widget.
   # To show your address on a map in the contact widget, you need to enter your latitude, longitude and choose
