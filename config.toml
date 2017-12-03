@@ -232,8 +232,8 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "Home"
-  url = "#about.md"
-  weight = 1
+  url = "#about"
+  weight = 5
 
 [[menu.main]]
   name = "Publications"
