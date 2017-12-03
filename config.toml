@@ -232,7 +232,7 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "Home"
-  url = "#about"
+  url = "#about.md"
   weight = 1
 
 [[menu.main]]
