@@ -14,4 +14,4 @@ subtitle = ""
 weight = 60
 
 +++
-pic = "resume.jpg"
+{{< figure src="/img/resume.jpg" title="Anthony Moraes Resume" >}}
