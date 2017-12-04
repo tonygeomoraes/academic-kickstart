@@ -20,7 +20,7 @@ weight = 1
 [[education.courses]]
   course = "MS in Geophysics"
   institution = "University of Wyoming"
-  year = In Progress
+  year = 2019
 
 [[education.courses]]
   course = "BS in Geology"
