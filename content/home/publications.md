@@ -5,8 +5,8 @@ widget = "publications"
 active = true
 date = 2016-04-20
 
-title = "Recent Publications"
-subtitle = ""
+title = "Publications"
+subtitle = "Moraes, A., Schroeder, P., and Austin, J., 2016. “Clay mineral concentration with depth and land use history in Calhoun, South Carolina.” Geological Society of America Abstracts with Programs 48(7)."
 
 # Order that this section will appear in.
 weight = 20
