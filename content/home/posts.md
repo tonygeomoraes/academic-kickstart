@@ -5,8 +5,8 @@ widget = "posts"
 active = true
 date = "2016-04-20T00:00:00"
 
-title = "Resume"
-subtitle = ""
+title = "Teaching"
+subtitle = "GEOL 1100: Physical Geology"
 
 # Order that this section will appear in.
 weight = 40
