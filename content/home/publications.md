@@ -6,7 +6,7 @@ active = true
 date = 2016-04-20
 
 title = "Publications"
-subtitle = "Moraes, A., Schroeder, P., and Austin, J., 2016. “Clay mineral concentration with depth and land use history in Calhoun, South Carolina.” Geological Society of America Abstracts with Programs 48(7)."
+subtitle = ""
 
 # Order that this section will appear in.
 weight = 20
@@ -35,4 +35,4 @@ publication_type = "-1"
 # Exclude publications that are shown in the Selected Publications widget?
 exclude_selected = false
 +++
-
+ Moraes, A., Schroeder, P., and Austin, J., 2016. “Clay mineral concentration with depth and land use history in Calhoun, South Carolina.” Geological Society of America Abstracts with Programs 48(7).
