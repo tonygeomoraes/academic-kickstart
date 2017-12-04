@@ -12,7 +12,7 @@ weight = 5
   interests = [
     "Hydrology",
     "Geophysics",
-    "Environmental Systems"
+    "Mountainous Regions"
   ]
 
 # List your qualifications (such as academic degrees).
