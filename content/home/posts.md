@@ -6,7 +6,7 @@ active = true
 date = "2016-04-20T00:00:00"
 
 title = "Teaching"
-subtitle = "GEOL 1100: Physical Geology"
+subtitle = ""
 
 # Order that this section will appear in.
 weight = 40
@@ -22,3 +22,4 @@ count = 5
 
 +++
 
+GEOL 1100: Physical Geology Lab
