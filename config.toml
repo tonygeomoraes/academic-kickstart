@@ -236,7 +236,7 @@ defaultContentLanguageInSubdir = false
   weight = 1
 
 [[menu.main]]
-  name = "Resume"
+  name = "Teaching"
   url = "#posts"
   weight = 2
 
@@ -246,7 +246,7 @@ defaultContentLanguageInSubdir = false
   weight = 3
 
 [[menu.main]]
-  name = "Teaching"
+  name = "Resume"
   url = "#teaching"
   weight = 4
 
