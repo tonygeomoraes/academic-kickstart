@@ -31,8 +31,10 @@ weight = 5
 
 # Biography
 
-Tony Moraes is an MS student at the University of Wyoming interested in the subsurface hydrology of mountainous catchments. Over 60 million people in the United States rely on mountain hydrologic process to supply freshwater and recharge aquifers. Tony's research aims to better quantify water movement using Electrical Resistivity Tomography, a non-invasive, geophysical technique.  
+Hi I am an MS student at the University of Wyoming interested in the subsurface hydrology of mountainous catchments. 
 
-He graduated from the University of Georgia, working the the Calhoun Critical Zone Observatory. My research at the CZO focused on understanding landscape recovery rates through geochemical analysis. With his focus in geosciences, Tony has been able to fulfill his passion for travel, participating in fieldwork all across the United States.
+Why? Over 60 million people in the United States rely on mountain hydrologic process to supply freshwater and recharge aquifers. My research aims to better quantify water movement using Electrical Resistivity Tomography, a non-invasive, geophysical technique.  
+
+I graduated from the University of Georgia, working the the Calhoun Critical Zone Observatory. My research at the CZO focused on understanding landscape recovery rates through geochemical analysis.I participated in research across the Southeastern United States, in remote southeastern Wyoming, and in the active Kileaua flows in Hawai'i. 
 
 
